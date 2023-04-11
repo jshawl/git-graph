@@ -7,13 +7,13 @@ git log --graph --oneline --decorate
 ## One commit
 
 ```
-*
+* (main)
 ```
 
 ## Two commits
 
 ```
-*
+* (main)
 |
 *
 ```
